@@ -3,7 +3,7 @@ All commands and installation guide need for starter , All commands are given on
 
 ## Download and install node.js, npm comes with it.
 
-Check version in cmd, 
+Check version in cmd  
 Ex: node -v & npm -v
 
 Install Angular Cli
