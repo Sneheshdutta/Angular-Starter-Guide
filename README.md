@@ -6,11 +6,11 @@ All commands and installation guide need for starter , All commands are given on
 Check version in cmd  
 Ex: node -v & npm -v
 
-Install Angular Cli
+Install Angular Cli  
 npm install -g @angular/cli
 
-To check Angular version 
+To check Angular version  
 ng version
 
-To update Angular
+To update Angular  
 npm install -g @angular/cli@next
